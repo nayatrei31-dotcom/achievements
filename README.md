@@ -1,2 +1,2 @@
 # achievements
-update test 업적
+update test 업적 pair
