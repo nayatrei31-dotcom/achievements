@@ -1,2 +1,2 @@
 # achievements
-update test
+update test 업적
